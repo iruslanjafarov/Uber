@@ -14,4 +14,4 @@
 
 ### GitHub Pages
 
-* https://ruseykoo.github.io/Uber/
+* https://iruslanjafarov.github.io/Uber/
